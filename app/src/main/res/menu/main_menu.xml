@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search"
+        android:title="@string/search_notes"
+        
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="always|collapseActionView" />
+    <item
+        android:id="@+id/sortButton"
+        android:title="@string/sort"
+        app:showAsAction="ifRoom">
+<!--        <menu>-->
+<!--            <item-->
+<!--                android:id="@+id/sortByDateCreatedOldest"-->
+<!--                android:title="@string/creation_date_from_oldest" />-->
+
+<!--            <item-->
+<!--                android:id="@+id/sortByDateCreatedNewest"-->
+<!--                android:title="@string/creation_date_from_newest" />-->
+<!--            <item-->
+<!--                android:id="@+id/sortFromAtoZ"-->
+<!--                android:title="@string/title_a_to_z" />-->
+<!--            <item-->
+<!--                android:id="@+id/sortFromZtoA"-->
+<!--                android:title="@string/title_z_to_a" />-->
+<!--            <item-->
+<!--                android:id="@+id/sortByLastEditOldest"-->
+<!--                android:title="@string/edit_date_from_oldest" />-->
+
+<!--            <item-->
+<!--                android:id="@+id/sortByLastEditNewest"-->
+<!--                android:title="@string/edit_date_from_newest" />-->
+
+
+<!--        </menu>-->
+    </item>
+</menu>

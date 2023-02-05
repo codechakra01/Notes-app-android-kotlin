@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Save notes</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="open">Open</string>
+    <string name="save">Save</string>
+    <string name="sort">SORT</string>
+    <string name="create_notes">Create Notes</string>
+    <string name="search_notes">Search notes</string>
+    <string name="creation_date_from_oldest">Creation date: from Oldest</string>
+    <string name="creation_date_from_newest">Creation date: from newest</string>
+    <string name="edit_date_from_oldest">Edit date: from Oldest</string>
+    <string name="edit_date_from_newest">Edit date: from newest</string>
+    <string name="title_a_to_z">title: A to Z</string>
+    <string name="title_z_to_a">title: Z to A</string>
+</resources>
