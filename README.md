@@ -1,5 +1,8 @@
 #Create notes and save them easily
 
+#Available on google play store
+<a href="https://play.google.com/store/apps/details?id=com.codechakra.notepad">Click to visit</a>
+
    <div style="display:flex;
 	flex-direction:column;">
   <img src="./screenshots/notepad banner.png" width="450" title="hover text">
