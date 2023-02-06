@@ -1,6 +1,7 @@
 #Create notes and save them easily
 
-<p align="center">
+<div style="display:flex;
+	flex-direction:column;">
   <img src="./screenshots/notepad banner.png" width="450" title="hover text">
   <img src="./screenshots/create notes.png" width="350" title="hover text">
   <img src="./screenshots/edit notes.png" width="350" title="hover text">
